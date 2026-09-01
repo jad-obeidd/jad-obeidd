@@ -18,6 +18,15 @@ Computer Science master's student and software developer based in Tripoli, Leban
 
 ## Featured Projects
 
+### [VoteVision](https://github.com/jad-obeidd/VoteVision)
+An educational full-stack voting platform with election management, polls, candidate lists, an administrative dashboard, and result visualization.  
+**Technologies:** PHP, MySQL, JavaScript, Bootstrap, Chart.js
+
+### [Guidely](https://github.com/hadi-chebbo/Guidely) — Team Project
+Contributed to an educational guidance platform through an Agile team workflow. I delivered four merged pull requests covering the majors interface, reusable components, debounced search with URL synchronization, pagination, and a quiz flow with results.  
+**Technologies:** Laravel, Blade, JavaScript, Git, GitHub  
+**Merged work:** [Majors page](https://github.com/hadi-chebbo/Guidely/pull/26) · [Search](https://github.com/hadi-chebbo/Guidely/pull/43) · [Pagination](https://github.com/hadi-chebbo/Guidely/pull/47) · [Quiz flow](https://github.com/hadi-chebbo/Guidely/pull/83)
+
 ### [Portfolio Website](https://github.com/jad-obeidd/synent-task1-portfolio-jadobeid)
 A responsive personal portfolio presenting my skills, experience, and projects.  
 **Technologies:** HTML, CSS, JavaScript  
@@ -32,10 +41,6 @@ A web application that retrieves and displays GitHub user information using the 
 A responsive task-management application for adding, completing, and deleting daily tasks.  
 **Technologies:** HTML, CSS, JavaScript  
 🌐 [Live Demo](https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/)
-
-### [VoteVision](https://github.com/jad-obeidd/VoteVision)
-An educational electronic voting platform with election management, polls, candidate lists, an administrative dashboard, and result visualization.  
-**Technologies:** PHP, MySQL, JavaScript, Bootstrap, Chart.js
 
 ## Currently Learning
 
