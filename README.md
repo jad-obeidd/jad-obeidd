@@ -33,9 +33,9 @@ A responsive task-management application for adding, completing, and deleting da
 **Technologies:** HTML, CSS, JavaScript  
 🌐 [Live Demo](https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/)
 
-### Vote Vision
-A secure electronic voting platform with election management, an administrative dashboard, and live result visualization.  
-**Technologies:** PHP, MySQL, JavaScript, Chart.js
+### [VoteVision](https://github.com/jad-obeidd/VoteVision)
+An educational electronic voting platform with election management, polls, candidate lists, an administrative dashboard, and result visualization.  
+**Technologies:** PHP, MySQL, JavaScript, Bootstrap, Chart.js
 
 ## Currently Learning
 
