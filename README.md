@@ -1,85 +1,55 @@
 # Hi, I'm Jad Obeid 👋
 
-🎓 MSc Computer Science student @ Lebanese International University, Tripoli
-💼 Full-Stack Developer | AI Enthusiast | Database Engineer
-🌍 Based in Tripoli, Lebanon
-📫 jad.4obeid@gmail.com | [LinkedIn](https://linkedin.com/in/jad-obeid-748a642a0) | [GitHub](https://github.com/Jad-Ob)
+Computer Science master's student and software developer based in Tripoli, Lebanon. I build practical web and mobile applications and enjoy learning more about artificial intelligence.
 
----
+## About Me
 
-## 🛠️ Tech Stack
+- 🎓 MSc Computer Science student at Lebanese International University
+- 💻 Interested in full-stack, mobile, and AI development
+- 📱 Experience building applications with Flutter and Firebase
+- 🌐 Comfortable with JavaScript, PHP/Laravel, Python, Java, and MySQL
+- 🤝 Open to junior software development roles, internships, and collaborations
 
-**Languages:**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+## Technical Skills
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Languages:** JavaScript, Python, Java, PHP, SQL, HTML, CSS  
+**Frameworks & tools:** Flutter, Firebase, Laravel, React, Next.js, Tailwind CSS, Git, GitHub, MySQL  
+**Concepts:** REST APIs, responsive design, database design, object-oriented programming, Agile/Scrum
 
-**Backend & DB:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+## Featured Projects
 
-**Mobile:**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+### [Portfolio Website](https://github.com/jad-obeidd/synent-task1-portfolio-jadobeid)
+A responsive personal portfolio presenting my skills, experience, and projects.  
+**Technologies:** HTML, CSS, JavaScript  
+🌐 [Live Demo](https://jad-obeidd.github.io/synent-task1-portfolio-jadobeid/)
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### [GitHub Profile Finder](https://github.com/jad-obeidd/synent-task6-githubapi-jadobeid)
+A web application that retrieves and displays GitHub user information using the GitHub API.  
+**Technologies:** HTML, CSS, JavaScript, REST API  
+🌐 [Live Demo](https://jad-obeidd.github.io/synent-task6-githubapi-jadobeid/)
 
----
+### [Todo Application](https://github.com/jad-obeidd/synent-task5-todoapp-jadobeid)
+A responsive task-management application for adding, completing, and deleting daily tasks.  
+**Technologies:** HTML, CSS, JavaScript  
+🌐 [Live Demo](https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/)
 
-## 🚀 Projects
+### Vote Vision
+A secure electronic voting platform with election management, an administrative dashboard, and live result visualization.  
+**Technologies:** PHP, MySQL, JavaScript, Chart.js
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🗳️ **VoteVision** | Secure e-voting platform with live results & admin dashboard | PHP, MySQL, JS, Chart.js |
-| 🛒 **SmartCart** | AI shopping assistant with OpenAI API & real-time price tracking | React, Node.js, MongoDB |
-| 🧠 **AI Sentiment Analyzer** | NLP web app using DistilBERT to classify text sentiment | Svelte, Flask, SQLite |
-| 🍽️ **Restaurant Menu App** | Browse & filter restaurant dishes with a clean UI | Node.js, Express, MySQL |
-| 😊 **Daily Mood Tracker** | Track daily moods with emoji input & motivational quotes | Git, JavaScript |
+## Currently Learning
 
----
+- Machine learning and applied AI
+- Building production-ready full-stack applications
+- Software testing and clean code practices
 
-## 💼 Experience
+## GitHub Activity
 
-- 🌐 **Web Developer Intern** — CodiTech Solutions *(Feb – Aug 2024)*
-- 🗄️ **Junior Database Engineer Intern** — M365Connect *(Feb – Mar 2025)*
-- 🔧 **WordPress Developer Intern** — InternGrub *(Apr – Jun 2025)*
+![Jad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jad-obeidd&show_icons=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jad-obeidd&layout=compact&theme=transparent)
 
----
+## Contact
 
-## 📜 Certifications
-
-- Elements of AI for Business (MinnaLearn)
-- CCNA1 & CCNA2 (CISCO Academy)
-
----
-
-## 📊 GitHub Stats
-
-![Jad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jad-obeidd&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jad-obeidd&layout=compact&theme=tokyonight)
+- 📧 [jad.4obeid@gmail.com](mailto:jad.4obeid@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jad-obeid-748a642a0/)
+- 🐙 [GitHub](https://github.com/jad-obeidd)
