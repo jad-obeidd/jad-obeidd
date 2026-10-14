@@ -1,8 +1,8 @@
 # Hi, I'm Jad Obeid 👋
 
-Full-stack developer and MSc Computer Science student in Tripoli, Lebanon. 🌐 **Portfolio: [jad-obeidd.github.io](https://jad-obeidd.github.io)**
+Full-stack developer and MSc Computer Science student in Tripoli, Lebanon. I build web applications end to end, from MySQL and MongoDB schemas and REST APIs to Next.js and React front ends, and I'm increasingly focused on AI-powered features.
 
- I build web applications end to end, from MySQL and MongoDB schemas and REST APIs to Next.js and React front ends, and I'm increasingly focused on AI-powered features.
+🌐 **Portfolio: [jad-obeidd.github.io](https://jad-obeidd.github.io)**
 
 - 💼 Web/Application Developer Intern at **Universal Phoenix Group** (remote)
 - 🧭 Frontend Team Lead on **Guidely** (TechTalks internship program)
