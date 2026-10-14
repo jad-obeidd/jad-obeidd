@@ -1,6 +1,8 @@
 # Hi, I'm Jad Obeid 👋
 
-Full-stack developer and MSc Computer Science student in Tripoli, Lebanon. I build web applications end to end, from MySQL and MongoDB schemas and REST APIs to Next.js and React front ends, and I'm increasingly focused on AI-powered features.
+Full-stack developer and MSc Computer Science student in Tripoli, Lebanon. 🌐 **Portfolio: [jad-obeidd.github.io](https://jad-obeidd.github.io)**
+
+ I build web applications end to end, from MySQL and MongoDB schemas and REST APIs to Next.js and React front ends, and I'm increasingly focused on AI-powered features.
 
 - 💼 Web/Application Developer Intern at **Universal Phoenix Group** (remote)
 - 🧭 Frontend Team Lead on **Guidely** (TechTalks internship program)
@@ -36,7 +38,6 @@ Election platform with polls, candidate lists, an admin dashboard, live results 
 **Tech:** PHP, MySQL, JavaScript, Bootstrap, Chart.js
 
 ### Smaller projects
-- [Portfolio website](https://github.com/jad-obeidd/synent-task1-portfolio-jadobeid) · [live](https://jad-obeidd.github.io/synent-task1-portfolio-jadobeid/) — HTML, CSS, JavaScript
 - [GitHub Profile Finder](https://github.com/jad-obeidd/synent-task6-githubapi-jadobeid) · [live](https://jad-obeidd.github.io/synent-task6-githubapi-jadobeid/) — GitHub REST API
 - [Todo app](https://github.com/jad-obeidd/synent-task5-todoapp-jadobeid) · [live](https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/) — HTML, CSS, JavaScript
 
@@ -47,5 +48,6 @@ Election platform with polls, candidate lists, an admin dashboard, live results 
 
 ## Contact
 
+- 🌐 [Portfolio](https://jad-obeidd.github.io)
 - 📧 [jad.4obeid@gmail.com](mailto:jad.4obeid@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jad-obeid-dev)
