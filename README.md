@@ -4,7 +4,8 @@ Full-stack developer and MSc Computer Science student in Tripoli, Lebanon. I bui
 
 🌐 **Portfolio: [jad-obeidd.github.io](https://jad-obeidd.github.io)**
 
-- 💼 Web/Application Developer Intern at **Universal Phoenix Group** (remote)
+- 🤖 Selected for the **Samsung Innovation Campus** AI Course (Levant 2026, in progress)
+- 💼 Former Web/Application Developer Intern at **Universal Phoenix Group** (remote, Aug – Sep 2026)
 - 🧭 Frontend Team Lead on **Guidely** (TechTalks internship program)
 - 🏆 Built **SkillForge AI** at the Kanz AI Training Hackathon, part of a Guinness World Records™ event
 - 🎓 MSc Computer Science at Lebanese International University
