@@ -4,6 +4,8 @@ I'm a full-stack developer in Tripoli, Lebanon. I build web apps end to end: the
 
 **Portfolio:** [jad-obeidd.github.io](https://jad-obeidd.github.io) &nbsp;·&nbsp; **Email:** [jad.4obeid@gmail.com](mailto:jad.4obeid@gmail.com) &nbsp;·&nbsp; **LinkedIn:** [in/jad-obeid-dev](https://www.linkedin.com/in/jad-obeid-dev)
 
+<img src="assets/stats.svg" alt="Gold rating at the Kanz AI Hackathon 2026. Guidely shipped in 37 days by a team of 7. Two live apps for Beams Specialty Coffee." width="100%">
+
 ## Selected work
 
 <table>
@@ -72,6 +74,12 @@ I'm a full-stack developer in Tripoli, Lebanon. I build web apps end to end: the
 | Feb – Aug 2024 | Web Developer Intern | CodiTech Solutions |
 
 Now: Samsung Innovation Campus AI course (Levant 2026) and my MSc at LIU.
+
+## My year in 3D
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric chart of my GitHub contributions over the last year" width="100%">
+
+<sub>Rebuilt every night by a GitHub Action from my contribution history.</sub>
 
 ## What I work with
 

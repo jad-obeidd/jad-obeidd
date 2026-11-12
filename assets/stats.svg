@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="t d">
+  <title id="t">Highlights</title>
+  <desc id="d">Gold rating at the Kanz AI Hackathon 2026 for SkillForge AI. Guidely shipped in 37 days by a team of 7, frontend led by Jad. Two live apps built for Beams Specialty Coffee.</desc>
+  <style>
+    .tile { animation: float 5s ease-in-out infinite; }
+    .t2 { animation-delay: -1.6s; }
+    .t3 { animation-delay: -3.2s; }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+    @media (prefers-reduced-motion: reduce) { .tile { animation: none; } }
+    .big { font: 800 44px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: -1px; }
+    .small { font: 600 15px 'Segoe UI', Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- Each tile: back face (depth), side faces, then the front face -->
+  <g class="tile">
+    <polygon points="14,40 290,40 304,26 28,26" fill="#6E8BFF"/>
+    <polygon points="290,40 304,26 304,166 290,180" fill="#1A36B8"/>
+    <rect x="14" y="40" width="276" height="140" fill="#2F5BFF"/>
+    <text x="34" y="98" class="big" fill="#FFFFFF">Gold</text>
+    <text x="34" y="132" class="small" fill="#E4EAFF">SkillForge AI at the Kanz</text>
+    <text x="34" y="153" class="small" fill="#E4EAFF">AI Hackathon 2026</text>
+  </g>
+
+  <g class="tile t2">
+    <polygon points="312,40 588,40 602,26 326,26" fill="#FF7A73"/>
+    <polygon points="588,40 602,26 602,166 588,180" fill="#A51C18"/>
+    <rect x="312" y="40" width="276" height="140" fill="#E5322D"/>
+    <text x="332" y="98" class="big" fill="#FFFFFF">37 days</text>
+    <text x="332" y="132" class="small" fill="#FFE3E1">Guidely, shipped by a team</text>
+    <text x="332" y="153" class="small" fill="#FFE3E1">of 7. I led the frontend.</text>
+  </g>
+
+  <g class="tile t3">
+    <polygon points="610,40 886,40 900,26 624,26" fill="#FFE17A"/>
+    <polygon points="886,40 900,26 900,166 886,180" fill="#C28F00"/>
+    <rect x="610" y="40" width="276" height="140" fill="#FFC21A"/>
+    <text x="630" y="98" class="big" fill="#1B1B1B">2 live apps</text>
+    <text x="630" y="132" class="small" fill="#3A3000">Menu site + loyalty card for</text>
+    <text x="630" y="153" class="small" fill="#3A3000">Beams Specialty Coffee</text>
+  </g>
+</svg>
