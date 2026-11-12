@@ -20,7 +20,7 @@ I'm a full-stack developer in Tripoli, Lebanon. I build web apps end to end: the
       <a href="https://beams-menu.vercel.app"><img src="assets/beams.jpg" alt="Beams menu website, barista dashboard, stamp card and owner activity log on phones"></a>
       <h3><a href="https://jad-obeidd.github.io/work/beams-coffee-card/">Beams: Menu + Loyalty Card</a> <sub>client build</sub></h3>
       <p>Two connected apps for Beams Specialty Coffee in Tripoli. A menu website with WhatsApp ordering, where baristas edit items or mark them not available from their own page. And a stamp card (buy 8, the 9th is free) with barista PIN accounts and an owner activity log.</p>
-      <p><sub>Next.js 15 · React 19 · TypeScript · Supabase · html5-qrcode · Vitest</sub><br><a href="https://beams-menu.vercel.app">Live menu</a> · <a href="https://beams-card-demo.vercel.app/demo">Card demo</a> · <a href="https://jad-obeidd.github.io/work/beams-coffee-card/">Case study</a></p>
+      <p><sub>Next.js 15 · React 19 · TypeScript · Supabase · html5-qrcode · Vitest</sub><br><a href="https://beams-menu.vercel.app">Live menu</a> · <a href="https://beams-card-demo.vercel.app/demo">Card demo</a> · <a href="https://jad-obeidd.github.io/work/beams-coffee-card/">Case study</a><br>Code: <a href="https://github.com/jad-obeidd/beams-menu">beams-menu</a> · <a href="https://github.com/jad-obeidd/beams-loyalty">beams-loyalty</a></p>
     </td>
   </tr>
   <tr>
